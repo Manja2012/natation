@@ -1,0 +1,66 @@
+table, th, td {
+  border: 1px solid black;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+.planing-section{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.planing-title {
+  margin-bottom:30px;
+
+  font-weight: 900;
+  font-size: 26px;
+  line-height: 1.61;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-color);
+  text-align: center;
+}  
+.piscine{
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+
+  color: var(--accent-color-hover);
+}
+.activity{
+  padding-left: 4px;
+  padding-right: 4px;
+  display: inline; 
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+  color: var(--main-background-color); 
+}
+.activity1{
+  background-color: var(--text-color);
+}
+.activity2{
+  background-color: orange;
+}
+.activity3{
+  background-color: rgb(190, 190, 10);
+}
+.activity4{
+  background-color: rgb(95, 158, 230);
+}
+.activity5{
+  background-color: violet;
+}
+.activity6{
+  background-color: rgb(82, 16, 237);
+}
+.activity7{
+  background-color: rgb(54, 241, 54);
+}
